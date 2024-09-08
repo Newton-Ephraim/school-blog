@@ -1,0 +1,76 @@
+
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    background-color: whitesmoke;
+    overflow: hidden;
+    margin-bottom: 2%;
+    }
+    li{
+    float:left;
+    }
+    li a{
+    text-decoration: none;
+    display:block;
+    color:green;
+    padding: 20px;
+    font-size: larger;
+    }
+    li a:hover{
+    background-color: navy;
+    color:white;
+    text-decoration: none;
+    }
+    .login{
+        background-color: rgb(60, 241, 60);
+        color: white;
+        border-radius: 50px;
+
+    }
+      div{
+     text-align: center;
+        font-size: 30px;
+     }
+     #primary:link{
+    color:#1D2B53;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    #primary:visited{
+    color: #7E2553;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    #primary:hover{
+    color:#FF004D;
+      font-size: larger;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    #primary:active{
+    color:#FAEF5D;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    #secondary:link{
+    color:#4F6F52;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    #secondary:visited{
+    color: #739072;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    #secondary:hover{
+    color:#86A789;
+      font-size: larger;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    #secondary:active{
+    color:#D2E3C8;
+    background-color: transparent;
+    text-decoration: underline;
+    }
